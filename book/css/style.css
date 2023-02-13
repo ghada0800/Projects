@@ -1,0 +1,376 @@
+
+.result{
+    height:310px;
+    text-align:center;
+    font-weight:800;
+    font-size:x-large;
+    margin-top:100px;
+}
+.d_search{
+    display:inline-grid;
+    padding:50px;
+    margin-left:150px;
+    
+}
+.reviews{
+    text-align:center;
+    background-color:white;
+    margin-right:30px;
+    border:solid;
+    border-color:black;
+    height:auto;
+    margin-left:30px;
+    margin:30px;
+    padding:20px;
+}
+.rev_back {
+    width: 640px;
+    margin-left: 460px;
+    margin-bottom:100px;
+    background-color:lemonchiffon;
+    padding-top:10px;
+    padding-bottom:10px;
+    border:ridge;
+}
+.regF {
+    background-color: blanchedalmond;
+    width: 700px;
+    text-align: center;
+    margin-left: 410px;
+    margin-top: 100px;
+    padding-top: 50px;
+    border: groove;
+    border-radius: 20px;
+    padding-bottom: 30px;
+    margin-bottom: 80px;
+}
+.regT{
+    background-color:lemonchiffon;
+}
+#header {
+    height: 150px;
+    background-color: #fffdf1;
+    display:inline-block;
+    width:100%;
+}
+#logo{
+    float:left;
+}
+#cart{
+   float:right;
+    margin-top:61px;
+    margin-right:50px;
+}
+#sign,#log{
+    margin-bottom:50px;
+    margin-right:20px;
+    margin-top:-30px;
+    float:right;
+    border-bottom-style:groove;
+}
+#serch{
+    padding-top: 75px;
+    padding-left: 350px;
+}
+#search{
+    border:groove;
+    width:700px;
+    height:35px;
+    padding-left:10px;
+}
+#s_button {
+    height: 35px;
+    width:70px;
+}
+.reg {
+    margin-right: 130px;
+}
+.book-b{
+    margin-left:200px;
+    
+}
+#all-books{
+    margin-left:400px;
+    margin-top:20px;
+    border-radius:50px;
+    padding:20px;
+    width:300px;
+    margin-top:40px;
+    background-color:lightcoral;
+    border-color:lightcoral;
+    font-size:x-large;
+    font-family:'Bookman Old Style';
+      border:hidden;
+}
+h2{
+    padding-left:40px;
+    text-align:justify;
+    font-family:'Courier New';
+}
+.b{
+    background-color: antiquewhite;
+    width: 560px;
+    height: 350px;
+    border-radius: 5%;
+    margin-bottom:50px;
+}
+.b_img{
+    float:left;
+    padding:20px;
+
+}
+.hp{
+    text-align:justify;
+    text-align:center;
+   padding-top:20px;
+   padding-right:10px;
+   color:dimgray;
+}
+.p{
+    margin-top:30px;
+    background-color:aliceblue;
+    
+}
+.title{
+    padding-top:20px;
+    color:black;
+}
+.c{
+    clear: left;
+}
+.img{
+    margin-left:150px;
+}
+#login{
+    display:flex;
+    justify-content:space-between;
+    padding-right:150px;
+}
+.book {
+    float: left;
+    padding: 40px;
+    text-align: center;
+    font-weight: 700;
+}
+.vbook {
+    float: left;
+    padding: 20px;
+    text-align: center;
+    margin-top:60px;
+    margin-left:100px;
+    margin-bottom: 50px;
+    font-weight: 600;
+}
+.pop-books {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.books {
+    margin-top: 50px;
+}
+.cart_page {
+    display:flex;
+    margin-top:40px;
+    margin-left:100px;
+}
+.product,#r{
+    display:flex;
+    margin-left:50px;
+}
+#cart_t{
+    padding-top:30px;
+    padding-left:60px;
+    margin-left:70px;
+}
+h3,.product_name{
+    padding-right:100px;
+    text-align:center;
+}
+
+.product_img{
+    padding-right:80px;
+    
+}
+
+.quantity,.price,.total{
+    padding-right: 30px;
+    padding-top:50px;
+}
+.q{
+    width:50px;
+}
+.remove {
+    padding-right: 30px;
+    padding-top: 110px;
+    
+}
+#order_sum{
+    float:right;
+    margin-left:200px;
+    text-align:center;
+    margin-bottom:80px;
+    margin-right:20px;
+}
+#sub_total, #ship, #final_total, #checkout {
+    padding-bottom: 10px;
+}
+#check {
+    background-color: blanchedalmond;
+    width:900px;
+    margin-left:300px;
+    margin-top:50px;
+    margin-bottom:50px;
+    border-radius:20px;
+    border:outset;
+}
+.ch{
+    background-color:ivory;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.checkoutForm, .cart_head {
+    display: flex;
+}
+#continue {
+    margin-left: 700px;
+   margin-bottom:60px;
+    
+}
+.cont{
+    border-radius:10px;
+    background-color:lightgrey;
+    font-weight:600;
+}
+#billing_address,#payment{
+    padding:100px;
+}
+footer {
+   background-color: #fffdf1;
+   width:100%;
+   height: auto;
+   display : flex;
+   justify-content : space-between;
+   padding-top:20px;
+   padding-bottom:30px;
+   position:relative;
+   bottom:0;
+
+}
+.foot{
+    width:107%;
+    margin-right:50px;
+    margin-left:-100px;
+}
+#location,#phone,#email{
+    
+    padding-bottom:10px;
+    margin-left:80px;
+}
+#smedia{
+    margin-right:80px;
+}
+.book_img{
+    
+    margin-top : 150px;
+    margin-left:60px;
+    float:left;
+    
+}
+.book_page{
+    display : flex;
+    margin-top : 80px;
+    width:740px;
+}
+.book_info {
+    margin-left: 100px;
+    margin-top: 50px;
+    background-color: #fffbd8;
+    height:300px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom:10px;
+    border-radius:5px;
+    height:auto;
+}
+.label {
+    font-size: 20px;
+    font-weight: bold;
+}
+.review{
+    margin-left : 460px;
+    padding-top:30px;
+    margin-bottom:10px;
+    padding-left:20px;
+    background-color:ivory;
+    width:620px;
+    padding-bottom:20px;
+}
+
+.txt-center,.regT,.searchT {
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
+
+.clear {
+    float: none;
+    clear: both;
+}
+
+.rating {
+    width: 90px;
+    unicode-bidi: bidi-override;
+    direction: rtl;
+    text-align: center;
+    position: relative;
+}
+
+    .rating > label {
+        float: right;
+        display: inline;
+        padding: 0;
+        margin: 0;
+        position: relative;
+        width: 1.1em;
+        cursor: pointer;
+        color: #000;
+    }
+
+        .rating > label:hover,
+        .rating > label:hover ~ label,
+        .rating > input.radio-btn:checked ~ label {
+            color: transparent;
+        }
+
+            .rating > label:hover:before,
+            .rating > label:hover ~ label:before,
+            .rating > input.radio-btn:checked ~ label:before,
+            .rating > input.radio-btn:checked ~ label:before {
+                content: "\2605";
+                position: absolute;
+                left: 0;
+                color: #FFD700;
+            }
+
+.suggest {
+    float: right;
+    border: solid;
+    border-width: thick;
+    padding: 20px;
+    margin-top: 120px;
+    margin-right: 60px;
+    background-color: #ffffe0;
+    border-color: navajowhite;
+}
+.s_img{
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+.stitle,.searchT {
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: 700;
+    font-weight: 700;
+}
